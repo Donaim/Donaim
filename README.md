@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there
+
+![My GitHub](https://github-readme-stats.vercel.app/api?username=Donaim&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donaim&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact)
 
 <!--
-**Donaim/Donaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**condy0919/condy0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
